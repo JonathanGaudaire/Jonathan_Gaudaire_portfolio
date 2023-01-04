@@ -20,3 +20,10 @@ Data analytics portfolio
 - Pre-processed and cleaned the datasets to make them understanble and utilizable for text analytics
 - Performed sentiment analysis and document similarity, as well as some feature engineering.
 - Built a recommendation of which sports should be included and excluded and the reason why.
+
+# [Project 4: Kickstarter project classifier](https://github.com/JonathanGaudaire/Kickstarter-classifier-)
+- Used Web scraper to collect data about Kickstarter project at the time of their submission
+- Built a Classifier model to determine which project will be successful or unsuccessful
+- Optimized the model to get highest accuracy possible.
+- Ran a clustering algorithm to segment projects into 5 different categories.
+- Conveyed the results in a clear and adapted manner
