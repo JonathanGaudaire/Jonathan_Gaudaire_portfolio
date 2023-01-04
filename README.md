@@ -14,3 +14,9 @@ Data analytics portfolio
 - Optimized BIXI's repositioning system using Jupyter notebook and GUROBI eliminating unnecessary costs of $172 per day per truck while maintaining the service quality.
 - Decreased the number of ununsable stations by 9% over the course of the day.
 - Conveyed results and recommendations in Jupyter notebook.
+
+# [Project 3: LA 2028 Olympics sports inclusion](https://github.com/JonathanGaudaire/LA-2028-sports-inclusion-project)
+- Scraped 500,000 tweets about sports to be included or excluded in the LA 2028 Olympic games using a Twitter scraper API.
+- Pre-processed and cleaned the datasets to make them understanble and utilizable for text analytics
+- Performed sentiment analysis and document similarity, as well as some feature engineering.
+- Built a recommendation of which sports should be included and excluded and the reason why.
