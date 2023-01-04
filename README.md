@@ -1,7 +1,7 @@
 # Jonathan_Gaudaire_portfolio
 Data analytics portfolio
 
-# [Project 1: Yelp thai restaurants recommendation system] (https://github.com/JonathanGaudaire/thai-restaurant-recommendation-system-project)
+# [Project 1: Yelp thai restaurants recommendation system](https://github.com/JonathanGaudaire/thai-restaurant-recommendation-system-project)
 - Collected 50,000 observations using Web Scraper, providing a 27,000 observations dataset of thai restaurant based in Montreal
 - Cleaned and pre-processed text and numerical data using Python and Excel
 - Used word frequency analysis to determine attributes wanted by the customers to perform further analyses
