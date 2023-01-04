@@ -8,7 +8,7 @@ Data analytics portfolio
 - Built a recommendation system based on sentiment and document similarity analysis
 - Compared algorithm-based recommendation to Yelp based recommendation and conveyed the results to help the manager make an appropriate decision.
 
-# Project 2: BIXI operations optimization algorithm
+# [Project 2: BIXI operations optimization algorithm](https://github.com/JonathanGaudaire/BIXI-operation-optimization)
 - Interpreted and converted indigestible 10GB csv files into understantable tables and vizualizations.
 - Defined in data terms the company's goals and how to reach them.
 - Optimized BIXI's repositioning system using Jupyter notebook and GUROBI eliminating unnecessary costs of $172 per day per truck while maintaining the service quality.
